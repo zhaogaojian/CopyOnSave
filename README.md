@@ -13,5 +13,4 @@ FromDirectory:"x:\SubProjectDirectory4\"
 
 --split with ',' is support also,like below --CopyToDirectory:"x:\YourDirectory1\,x:\YourDirectory1\"  
 3、Reopen the project,And then when you save the file js|html In your Project ,The file will copy To the "CopyToDirectory" ,when "FromDirectory" Ignored ,All solution subproject directory's saved file will be copyed  
-![image](https://raw.githubusercontent.com/zhaogaojian/CopyOnSave/main/u3bnm-1ybb2.gif)
 https://marketplace.visualstudio.com/items?itemName=zgj.CopyOnSave
