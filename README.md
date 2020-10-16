@@ -1,0 +1,2 @@
+# CopyOnSave
+Vs Extension CopyOnSave
